@@ -143,7 +143,7 @@ input[type='file']{
 }
 .profile div{
      display: flex;
-     justify-content: end;
+     justify-content: flex-end;
 }
 .result p.click{
     color: darkorange;
